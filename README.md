@@ -2,3 +2,4 @@
 
 1. Data Visualization<br/>
 2. Dimensionality reduction<br/>
+3. Classical Machine Learning Algorithms
